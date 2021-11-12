@@ -11,7 +11,7 @@ This repo couldn't exist without [Kamusi-Mobile](https://github.com/jacksiro254/
 
 This data is result of webscraping done to [kamusi](http://kamusi.appsmata.com) with help of selenium and BeautifulSoup.
 
-There are basically two scripts, one for scraping **app.py** while the other one **to_json** serves a purpose of converting scraped CSV data into json tha can easily be used by others.
+There are basically two scripts, one for scraping **app.py** while the other one **to_json** serves a purpose of converting scrapped CSV data into json that can easily be used by others.
 
 ## Gathering data
 
@@ -21,7 +21,7 @@ Looking forward to see what you're going to build with it.
 
 ## Give it a star
 
-Was this useful to you ? Then give it a star so that more people can manke use of this.
+Was this useful to you ? Then give it a star so that more people can make use of this.
 
 ## Credits
 
